@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "vgf-mailinglist",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "6c38f1e4-70c4-42d3-aabb-190a28ee9563",
+			"database_name": "vgf-mailinglist-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
